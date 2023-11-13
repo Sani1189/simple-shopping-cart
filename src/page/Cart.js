@@ -7,6 +7,7 @@ import './styles.css';
 import { MyToastContainer2 } from '../components/CartItem/CartItem';
 import { ToastContainer , toast} from 'react-toastify';
 import { Link } from 'react-router-dom';
+import Nav from '../components/Nav/Nav';
 
 export default function Cart() {
     const showSuccess = () => {
@@ -24,6 +25,8 @@ export default function Cart() {
 
 
     return (
+        <>
+        <Nav />
         <div className="Container">
             <div>
                 {cart?.list && cart?.list?.length > 0 ? (
@@ -64,5 +67,6 @@ export default function Cart() {
 
             <MyToastContainer2 />
         </div>
+        </>
     );
 }

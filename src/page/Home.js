@@ -5,9 +5,13 @@ import productList from '../data/products.json';
 import { MyToastContainer } from '../components/ProductList/ProductList';
 
 import "./styles.css";
+import Nav from '../components/Nav/Nav';
 
 export default function Home() {
   return (
+    <>
+    <Nav />
+    
     <div className="Container">
       <div className="Row">
         {productList.map((item) => (
@@ -18,5 +22,6 @@ export default function Home() {
       </div>
       <MyToastContainer />
     </div>
+    </>
   );
 }
