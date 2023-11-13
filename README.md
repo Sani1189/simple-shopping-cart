@@ -1,4 +1,4 @@
-demo: https://simple-react-redux-cart.netlify.app/
+DEMO: https://react-redux-cart-simple.netlify.app/
 
 # Getting Started with Create React App
 
