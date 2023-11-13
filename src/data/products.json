@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "imageUrl": "https://m.media-amazon.com/images/I/411WFSFEMJL._AC_UF894,1000_QL80_.jpg",
+    "price": "4"
+  },
+  {
+    "id": 2,
+    "name": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "imageUrl": "https://cdn.kobo.com/book-images/f47d4dc8-32a6-4136-9231-084dc64f1380/1200/1200/False/a-tale-of-two-cities-464.jpg",
+    "price": "3"
+  },
+  {
+    "id": 3,
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+    "price": "8"
+  },
+  {
+    "id": 4,
+    "name": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OZY035QKL._AC_UF1000,1000_QL80_.jpg",
+    "price": "5"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iqZ2HHD-L._AC_UF1000,1000_QL80_.jpg",
+    "price": "6"
+  },
+  {
+    "id": 6,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "imageUrl": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+    "price": "4"
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "imageUrl": "https://m.media-amazon.com/images/I/814ZhvhJ-bL._AC_UF1000,1000_QL80_.jpg",
+    "price": "7"
+  },
+  {
+    "id": 8,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "imageUrl": "https://cdn2.penguin.com.au/covers/original/9780141949055.jpg",
+    "price": "4"
+  },
+  {
+    "id": 9,
+    "name": "1984",
+    "author": "George Orwell",
+    "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b468d093312907.5e6139cf2ab03.png",
+    "price": "5"
+  },
+  {
+    "id": 10,
+    "name": "Animal Farm",
+    "author": "George Orwell",
+    "imageUrl": "https://static-01.daraz.com.bd/p/23a0891c0bf181234a759459a745bd43.jpg",
+    "price": "3"
+  },
+  {
+    "id": 11,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "imageUrl": "https://cloverpress.us/cdn/shop/products/GG-06-COVER-B-Mock_1024x1024@2x.jpg?v=1666109273",
+    "price": "6"
+  },
+  {
+    "id": 12,
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "imageUrl": "https://images.penguinrandomhouse.com/cover/9780143105954",
+    "price": "7"
+  }
+]

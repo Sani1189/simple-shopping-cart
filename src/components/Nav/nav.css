@@ -1,0 +1,78 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  }
+
+  
+  .navbar {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .logo a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+  }
+  
+  .logo h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 20px;
+  }
+  
+  .cartIcon {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .cartIcon span {
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .nav-links {
+      margin-top: 10px;
+    }
+  
+    .nav-links a {
+      margin: 5px 10px;
+    }
+  }
+  .myred{
+    color:rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+  }
+  

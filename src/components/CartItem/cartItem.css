@@ -1,0 +1,63 @@
+tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  td {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  td:first-child {
+    max-width: 450px;
+    text-align: left;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  
+  .justify-content-center {
+    justify-content: center;
+  }
+  
+  .price {
+    font-weight: bold;
+  }
+  
+  .changeBtn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+  }
+  
+  .input {
+    width: 40px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .removeBtn {
+
+    background-size: cover;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  
+ .removeBtn:hover {
+    color:red ;
+    transform: scale(1.5);
+ }
+
+
+  
